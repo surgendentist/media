@@ -11,10 +11,3 @@
 
   # pushed new code to remote url 
   git push 
-
-  # clear console 
-  clear 
-
-  ## code deployed to new url 
-  echo -e '\n$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ \n                                                                                    \n                        https://surgendentist.github.io/                         \n                                                                                       \n$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ \n\n'
-
